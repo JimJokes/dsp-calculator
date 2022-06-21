@@ -325,7 +325,7 @@
         {
             "name": "Casimir crystal(卡西米尔水晶)", "key_name": "casimir_crystal", "category": "crafting1",
             "time": 4,
-            "ingredients": [["optical_grating_crystal", 4], ["graphene", 2], ["hydrogen", 12]],
+            "ingredients": [["optical_grating_crystal", 8], ["graphene", 2], ["hydrogen", 12]],
             "product": ["casimir_crystal", 1]
         },
         {
@@ -367,7 +367,7 @@
         {
             "name": "Carbon nanotube(碳纳米管)", "key_name": "carbon_nanotube", "category": "chemical_plant",
             "time": 4,
-            "ingredients": [["spiniform_stalagmite_crystal", 2]],
+            "ingredients": [["spiniform_stalagmite_crystal", 6]],
             "product": ["carbon_nanotube", 2]
         },
         {
@@ -391,7 +391,7 @@
         {
             "name": "Miniature particle collider(微型粒子对撞机)", "key_name": "miniature_particle_collider", "category": "crafting1",
             "time": 15,
-            "ingredients": [["titanium_alloy", 20], ["frame_material", 20], ["super-magnetic_ring", 50], ["graphene", 10], ["processor", 8]],
+            "ingredients": [["titanium_alloy", 20], ["frame_material", 20], ["super-magnetic_ring", 25], ["graphene", 10], ["processor", 8]],
             "product": ["miniature_particle_collider", 1]
         },
         {
